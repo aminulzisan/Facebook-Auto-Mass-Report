@@ -1,5 +1,10 @@
 # 🚀 Facebook Mass Report Tool
 
+<!-- hy-mt2-i18n:start -->
+**English** · [中文](./README_zh-CN.md) · [日本語](./README_ja.md) · [Español](./README_es.md)
+
+<!-- hy-mt2-i18n:end -->
+
 > A powerful automated tool to mass report any Facebook account using cookies ⚡
 
 ---
